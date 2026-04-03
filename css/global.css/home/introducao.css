@@ -31,8 +31,6 @@
   margin-bottom: 20px;
 }
 
-
-
 @media (max-width: 800px) {
   .introducao-bg {
     background: var(--cor-11);
@@ -51,7 +49,6 @@
     width: 100%;
   }
   .introducao h1 {
-    font-size: 32px;
     margin-bottom: 16px;
   }
 }
