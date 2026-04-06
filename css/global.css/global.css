@@ -5,8 +5,12 @@ body {
   padding-bottom: 600px;
 }
 h1,
+h2,
+h3,
+h4,
 ul,
-a {
+a,
+p {
   margin: 0px;
 }
 ul {
@@ -20,4 +24,8 @@ a {
 img {
   max-width: 100%;
   display: block;
+  border-radius: 4px;
+}
+[src$=".jpg"] {
+  border-radius: 4px;
 }
